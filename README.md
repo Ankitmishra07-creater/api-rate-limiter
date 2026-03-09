@@ -52,7 +52,7 @@ api-rate-limiter
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/api-rate-limiter.git
+git clone https://github.com/Ankitmishra07-creater/api-rate-limiter.git
 
 ### 2. Run Backend (Spring Boot)
 
